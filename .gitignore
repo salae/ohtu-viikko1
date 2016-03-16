@@ -1,0 +1,4 @@
+#you can start patterns with a forward slash to avoid recursivity
+/*.tmp
+#you can end patterns with a forward slash to specify a directory
+target/
