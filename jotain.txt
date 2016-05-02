@@ -1,8 +1,4 @@
 Alkua.
 Tässä on tekstiä.
 Ja toinen rivi.
-Muutos.
-jo
-muu
-mi
-tto
+
